@@ -1,1 +1,76 @@
-<mxfile host="app.diagrams.net" modified="2020-09-22T14:22:12.101Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="xXQEMJA4J9Nwyd_Lozin" version="13.7.3" type="github"><diagram id="pxym1uByHhxu7Ba_5gcs" name="Page-1">7Vlbb9owFP41fmyV2Lk4j4HCVmmdkNile0wTF9KZGDmmwH797MYhF6eCdayhdFJV2Z/v3/nOOXYAaLjYfODRcn7DEkIBtJINQFcAQh/58r8CtgXg2G4BzHiaFJBVAdP0FylAu0RXaUJyjRWQYIyKdNkEY5ZlJBYNLOKcrZvd7hlNGsAymhEDmMYRNdHvaSLmBYqhX+EfSTqblyvbXlC0LKKysz5JPo8Stq5BaATQkDMmitJiMyRUcdfkZfxM625jnGTikAEPmRsx4j/Mv9rY8sSY0m/2hVfM8hjRlT4wGHkgGIJBqAohBAMLjDDAPsDwejLURxHbkh/OVllC1BI2QIP1PBVkuoxi1bqWgpDYXCyobtaLES7I5tlT2DtupKYIWxDBt7KLHuA4estaTwg6RX1dWcfXxpnXDIOw1oTWw2w3c0WZLGjW/oBB3MGgo+gLHcUgvlIk7jjtmz5UqvFU6Cv9vMbfYPiZiIupfzO57p0vG+MT48sx+Jr6F8iSNFqTT/37pwdPjK+uCBcAbIEgfHLUMQhtMHKVo+KxCnXhSP1Bj8qtDe64LM1USY/CxfCn/nJUEIAQ905626uh6/bMum+y3iaJZEmoErSsxTTK8zSWZOQi4sKEa3RJSvj2tl75ISvWpVtWrxQp1q62LWubVNzWyrVRslYNUpVyTLFnkhhXhJZh5LnYisfkgDgnzzcjYq+Dm6aumdK1TFOWGCc0Euljc8Nd9tUrTFgqj1LFu8BtKMmxWhIpDqpH1W8brYmQ3woENmxOVBBhTPQkt92x/0KBHXn52Aq0XqZA+8QViPsUIIIt3Xgt3bwZAQaGAHPCZZg3ZCjjvmgqLBec/SRDRhmXSMYy2XNwn1LagiKazjIlUykGOTEaqCySysdLqBsWaZKoZTpzUJWlrOOkIWh5l83wgSwz/Tsd4inz19ETETSvl+duBcdqXQa8vm2ADBvENCXa7c7SBtBHJ2aDjmtwz+nw8NS2N2N5vWaswGnGPAe9zYwFzYx17n7qeE4rY8EA9+upCBpW6PoQcjYmsB27qfqOLwavawAzXR0/VF5Ctx4t7T2xcvd41ePK18NrvR3wgYHY7jcSn8vbAZkf+f6BBP0XStD/L8F3IEHXTEMsuVvlX4aT801GKPCbrPf9fkXmvf0dmAF6+z8jePZRzCCr1U+whfNUv2Oj0W8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-09-22T14:23:21.438Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="bENCQpEFBYKSkWB9kTbN" version="13.7.3" type="github">
+  <diagram id="pxym1uByHhxu7Ba_5gcs" name="Page-1">
+    <mxGraphModel dx="737" dy="415" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jn5aoe7jhU1806tFllV1-6" value="机械臂IPC" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="530" y="318" width="77" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="jn5aoe7jhU1806tFllV1-8" value="交换机" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="404" y="318" width="77" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="jn5aoe7jhU1806tFllV1-10" value="BCNet-S7MPI" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="272" y="318" width="77" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="jn5aoe7jhU1806tFllV1-14" value="S7-300 PLC" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="146" y="318" width="77" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="jn5aoe7jhU1806tFllV1-16" value="通信协议&lt;br&gt;适配器" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="404" y="249" width="77" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="jn5aoe7jhU1806tFllV1-17" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="jn5aoe7jhU1806tFllV1-10" target="jn5aoe7jhU1806tFllV1-14" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="279" y="402" as="sourcePoint" />
+            <mxPoint x="456" y="306" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jn5aoe7jhU1806tFllV1-18" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="jn5aoe7jhU1806tFllV1-10" target="jn5aoe7jhU1806tFllV1-8" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="406" y="356" as="sourcePoint" />
+            <mxPoint x="456" y="306" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jn5aoe7jhU1806tFllV1-19" value="server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="290.5" y="298" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jn5aoe7jhU1806tFllV1-20" value="server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="484" y="258" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jn5aoe7jhU1806tFllV1-23" value="client" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="357" y="258" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jn5aoe7jhU1806tFllV1-26" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="jn5aoe7jhU1806tFllV1-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="478" y="337" as="sourcePoint" />
+            <mxPoint x="456" y="306" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jn5aoe7jhU1806tFllV1-29" value="client" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="548.5" y="292" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jn5aoe7jhU1806tFllV1-32" value="MPI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="225" y="318" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jn5aoe7jhU1806tFllV1-33" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" parent="1" source="jn5aoe7jhU1806tFllV1-8" target="jn5aoe7jhU1806tFllV1-16" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="406" y="356" as="sourcePoint" />
+            <mxPoint x="456" y="306" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jn5aoe7jhU1806tFllV1-34" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" parent="1" source="jn5aoe7jhU1806tFllV1-8" target="jn5aoe7jhU1806tFllV1-16" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="406" y="356" as="sourcePoint" />
+            <mxPoint x="456" y="306" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jn5aoe7jhU1806tFllV1-35" value="ModbusTCP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="481" y="298" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jn5aoe7jhU1806tFllV1-36" value="ModbusTCP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="349" y="298" width="61" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
